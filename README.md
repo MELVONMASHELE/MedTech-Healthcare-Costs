@@ -1,34 +1,21 @@
-# MedTech-Healthcare-Costs-Dashboard
-# MedTech Appliances and Healthcare Costs Analysis: Impact on Global Access to Healthcare  
+# Analyzing Healthcare Costs, MedTech Appliances, and Access to Healthcare Across Countries
 
-## 📊 Project Overview  
-This project explores how healthcare costs and the availability of MedTech appliances impact global access to healthcare. Through data analysis, we examine the correlation between these factors and their implications for healthcare innovation.  
+## Project Overview
+This project examines how healthcare costs and MedTech availability influence access to care across countries, providing insights into healthcare disparities and future MedTech innovations.
 
-## 🚀 Key Insights  
-- Increased availability of MedTech appliances is linked to reduced healthcare costs in certain regions.  
-- There is a significant disparity in access to MedTech across different income levels and countries.  
-- Countries with higher healthcare expenditure show more significant advancements in MedTech infrastructure.  
+## Objectives
+- Analyze global healthcare cost trends.
+- Explore correlations between MedTech availability and access to care.
+- Identify opportunities for innovation in healthcare systems.
 
-## 🛠️ Technologies Used  
-- **Power BI**: Data visualization and dashboard creation.  
-- **SQL**: Data extraction and cleaning.  
-- **Python**: Statistical analysis and correlation tests.  
+## Tools and Technologies
+- **Excel:** Data preprocessing and cleaning.
+- **Power BI:** Interactive dashboards for visualization.
+- **Global Healthcare Datasets:** Data source.
 
-## 📈 Visualizations  
-- Overview of the dashboard:  
-  ![Dashboard Overview](visuals/dashboard-overview.png)  
+## Key Features
+1. KPIs: Cost averages, MedTech distribution, and access indicators.
+2. Visualizations: Heatmaps, line charts, and clustered bar charts.
+3. Insights: Identified key barriers to healthcare access.
 
-- MedTech Analysis:  
-  ![MedTech Analysis](visuals/medtech-analysis.png)  
-
-- Healthcare Costs and Access:  
-  ![Healthcare Costs](visuals/healthcare-costs.png)  
-
-## 🗂️ Dashboard Files  
-- **Interactive Dashboard (Power BI File)**: [Download Here](MedTech-Healthcare-Costs-Dashboard.pbix)  
-- **PDF Version**: [Download Here](MedTech-Healthcare-Costs-Dashboard.pdf)  
-
-## 🔗 How to Explore  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/MedTech-Healthcare-Costs-Analysis.git
+## Repository Structure
