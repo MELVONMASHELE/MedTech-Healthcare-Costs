@@ -18,4 +18,16 @@ This project examines how healthcare costs and MedTech availability influence ac
 2. Visualizations: Heatmaps, line charts, and clustered bar charts.
 3. Insights: Identified key barriers to healthcare access.
 
-## Repository Structure
+## Insights
+- High costs are a major barrier to care in low-income regions.
+- MedTech availability strongly correlates with access improvements.
+- Predicted innovations suggest more affordable MedTech solutions in coming years.
+
+## How to Use
+1. Download the cleaned dataset and .pbix file.
+2. Open the Power BI dashboard to explore visualizations.
+3. Refer to `Insights.pdf` for detailed findings.
+
+## Contact
+For questions or suggestions, reach out via [LinkedIn](https://www.linkedin.com/in/melvonmashele/).
+
